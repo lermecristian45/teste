@@ -4,7 +4,6 @@ let divImg = document.getElementById('div-img')
 
 $( "#botao" ).mouseenter(function() {
 
-    $( "body" ).css("background-color", "green")
     $( "#div-img" ).css("visibility", "visible")
   });
 
